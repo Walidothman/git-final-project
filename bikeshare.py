@@ -1,4 +1,3 @@
-# This is the bikeshare python project
 import time
 import pandas as pd
 import numpy as np
