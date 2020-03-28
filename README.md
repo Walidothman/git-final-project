@@ -14,4 +14,4 @@ chicago.csv,new_york_city.csv,washington.csv
 
 
 ### Credits
-www.knowledge.udacity
+www.knowledge.udacity and Ahmet Can Serfidan
