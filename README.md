@@ -5,10 +5,13 @@ Bikeshare GitHub project was created on March 28 2020.
 Bikeshare GitHub Project
 
 ### Description
-Describe what your project is about and what it does
+Using use data provided by Motivate, a bike share system provider for many major cities in the United States, we will uncover bike share usage patterns.
+We will compare the system usage between three large cities: Chicago, New York City, and Washington DC
+
 
 ### Files used
-Include the files used
+chicago.csv,new_york_city.csv,washington.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+www.knowledge.udacity
